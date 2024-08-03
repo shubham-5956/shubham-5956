@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Agarwal</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Express and MongoDB**
+- 🌱 I’m currently working in **Reactjs, Nodejs, Express and MongoDB**
 
-- 💬 Ask me about **Competitive Coding and Full Stack Development**
+- 💬 Ask me about **Full Stack Development( MERN ), Data Analytics(Power Bi) and Oracle Siebel CRM**
 
 - 📫 How to reach me **shubhamkumaragarwal2@gmail.com**
 
