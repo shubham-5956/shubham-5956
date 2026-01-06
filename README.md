@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Agarwal</h1>
 <h3 align="center">
-Software Developer | Full-Stack (MERN) Developer | DevOps | Data & Enterprise Systems 
+Software Developer || Full-Stack(MERN) Developer || DevOps || Data & Enterprise Systems 
 </h3>
 
 <p align="center">
@@ -19,6 +19,7 @@ Software Developer | Full-Stack (MERN) Developer | DevOps | Data & Enterprise Sy
 
 ## 👨‍💻 About Me
 
+- 💼 **Associate Consultant** with **1.5+ years of full-time experience**
 - 🚀 Software Developer with hands-on experience in **Full Stack Development (MERN)**, **DevOps**, **Enterprise Applications** and **Data Analytics**
 - 🧩 Built and deployed **scalable web applications** using modern CI/CD pipelines
 - ⚙️ Strong experience in **containerization, orchestration, and cloud deployments**
@@ -112,11 +113,25 @@ Software Developer | Full-Stack (MERN) Developer | DevOps | Data & Enterprise Sy
 
 ## 📌 Notable Projects
 
-- 🔹 **DevOps-Ready MERN App** – Dockerized services, CI/CD, EC2 deployment
-- 🔹 **X-CRYPT-O** – Crypto Exchange Web App with live data & charts
-- 🔹 **Sort Wizard** – Algorithm Visualizer (Sorting, Pathfinding)
-- 🔹 **BOLLY-FLIX** – Full-stack Movie & Series Platform
-- 🔹 **Enterprise CRM & Analytics Dashboards** – Oracle + Power BI
+- 🔹 **PDF RAG System** – AI-powered document question answering using PDF ingestion, semantic search, and LLM-based responses
+- 🔹 **DevOps-Ready MERN App** – Dockerized services, CI/CD pipelines, and AWS EC2 deployment
+- 🔹 **X-CRYPT-O** – Crypto Exchange Web App with live data, charts, and currency selection
+- 🔹 **Sort Wizard** – Algorithm Visualizer for sorting and pathfinding algorithms
+- 🔹 **BOLLY-FLIX** – Full-stack Movie & Series platform with authentication and theming
+- 🔹 **Enterprise CRM & Analytics Dashboards** – Oracle Siebel CRM, SQL, and Power BI reporting
+- 
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-5956&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-5956&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
