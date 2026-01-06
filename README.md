@@ -119,19 +119,6 @@ Software Developer || Full-Stack(MERN) Developer || DevOps || Data & Enterprise 
 - 🔹 **Sort Wizard** – Algorithm Visualizer for sorting and pathfinding algorithms
 - 🔹 **BOLLY-FLIX** – Full-stack Movie & Series platform with authentication and theming
 - 🔹 **Enterprise CRM & Analytics Dashboards** – Oracle Siebel CRM, SQL, and Power BI reporting
-- 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-5956&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-5956&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
 
 
 ---
