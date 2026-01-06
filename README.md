@@ -1,19 +1,132 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Agarwal</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">
+Software Developer | Full-Stack (MERN) Developer | DevOps | Data & Enterprise Systems 
+</h3>
 
-- 🌱 I’m currently working on **Reactjs, Nodejs, Express and MongoDB**
-
-- 💬 Ask me about **Full Stack Development( MERN ), Data Analytics(Power Bi) and Oracle Siebel CRM**
-
-- 📫 How to reach me **shubhamkumaragarwal2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubham_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_ag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhumkumaragarwal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhumkumaragarwal2" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhumkumaragarwal2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhamkumaragarwal2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/shubham_ag" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-5956&show_icons=true&locale=en&layout=compact" alt="shubham-5956" /></p>
+## 👨‍💻 About Me
+
+- 🚀 Software Developer with hands-on experience in **Full Stack Development (MERN)**, **DevOps**, **Enterprise Applications** and **Data Analytics**
+- 🧩 Built and deployed **scalable web applications** using modern CI/CD pipelines
+- ⚙️ Strong experience in **containerization, orchestration, and cloud deployments**
+- 🏢 Worked extensively with **Oracle Siebel CRM**, **SQL**, and **ETL workflows**
+- 📊 Passionate about **clean architecture, performance optimization, and automation**
+
+---
+
+## 🔭 Currently Exploring & Working On
+
+- Advanced **React & Next.js** applications
+- Backend services using **Node.js, Express, MongoDB**
+- **DevOps workflows**: CI/CD, container orchestration, reverse proxying
+- **Cloud deployments** on AWS with production-ready setups
+
+---
+
+## 💬 Ask Me About
+
+- Full Stack Development (MERN / Next.js)
+- DevOps: Docker, Kubernetes, CI/CD
+- Cloud & Deployment (AWS EC2, Nginx)
+- Node.js, REST APIs, Authentication
+- Oracle Siebel CRM, SQL, ETL (ODI)
+- Power BI, Data Modeling & Analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+</p>
+
+### 🚀 DevOps & Cloud
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+</p>
+
+### 📊 Data & Enterprise
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/database.png"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+</p>
+
+---
+
+## 📌 DevOps Hands-on Highlights
+
+- 🐳 Containerized full-stack applications using **Docker & Docker Compose**
+- ☸️ Deployed and managed applications on **Kubernetes (Pods, Services, Deployments)**
+- 🔁 Built CI/CD pipelines using **Jenkins & GitHub Actions**
+- 🌐 Configured **Nginx** as a reverse proxy and load balancer
+- ☁️ Deployed production applications on **AWS EC2**
+- 🔐 Managed environment variables, ports, and networking securely
+
+---
+
+## 📌 Notable Projects
+
+- 🔹 **DevOps-Ready MERN App** – Dockerized services, CI/CD, EC2 deployment
+- 🔹 **X-CRYPT-O** – Crypto Exchange Web App with live data & charts
+- 🔹 **Sort Wizard** – Algorithm Visualizer (Sorting, Pathfinding)
+- 🔹 **BOLLY-FLIX** – Full-stack Movie & Series Platform
+- 🔹 **Enterprise CRM & Analytics Dashboards** – Oracle + Power BI
+
+---
+
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **Software Developer / Full-Stack / DevOps Engineer** roles
+- 📫 Email: **shubhamkumaragarwal2@gmail.com**
+- 🌐 LinkedIn: **linkedin.com/in/shubhumkumaragarwal2**
+
+---
+
+⭐ *If you like my work, consider starring the repositories!* ⭐
