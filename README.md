@@ -126,12 +126,13 @@ Software Developer || Full-Stack(MERN) Developer || DevOps || Data & Enterprise 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-5956&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-5956&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-5956&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-5956&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
 
 ---
 
