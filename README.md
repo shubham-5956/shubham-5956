@@ -82,7 +82,7 @@ Software Developer || Full-Stack(MERN) Developer || DevOps || Data & Enterprise 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/>
 </p>
 
 ### 📊 Data & Enterprise
